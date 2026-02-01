@@ -1,0 +1,11 @@
+torch>=2.4.0
+transformers>=4.46.0
+datasets
+tokenizers
+accelerate
+scikit-learn
+pandas
+numpy
+tqdm
+dashscope>=1.19.0
+python-dotenv
